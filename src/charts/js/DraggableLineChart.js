@@ -3,6 +3,8 @@
  *
  * @namespace YAHOO.widget
  * @class LineChart
+ * @author    "Tomasz Kuter" <evolic@interia.pl>
+ * @copyright 2013 Tomasz Kuter (Evolic)
  * @uses YAHOO.widget.LineChart
  * @constructor
  * @param containerId {HTMLElement} Container element for the Flash Player instance.
